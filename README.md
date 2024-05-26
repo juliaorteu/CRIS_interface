@@ -1,4 +1,6 @@
-# ![CRIS Logo](logo.png) CRIS: Client Retention Intelligent System
+<img src="logo.png" alt="logo" width="150">
+
+# CRIS: Client Retention Intelligent System
 
 **Overview**: This application helps businesses manage and predict customer churn.
 Features include adding new customers, visualizing customer data on a map, and predicting churn probability using a pre-trained model.
@@ -12,7 +14,7 @@ Features include adding new customers, visualizing customer data on a map, and p
 
 1. Clone the repository and navigate to the directory:
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/juliaorteu/CRIS_interface.git
     cd CRIS_app
     ```
 
