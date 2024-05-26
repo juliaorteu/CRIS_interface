@@ -1,6 +1,6 @@
 <img src="logo.png" alt="logo" width="150">
 
-# CRIS: Client Retention Intelligent System
+# Client Retention Intelligent System
 
 **Overview**: This application helps businesses manage and predict customer churn.
 Features include adding new customers, visualizing customer data on a map, and predicting churn probability using a pre-trained model.
