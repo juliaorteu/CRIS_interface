@@ -31,7 +31,7 @@ import base64
 st.set_page_config(page_title="CRIS", page_icon=":bar_chart:")
 
 # Load the customer data and model
-data_path = 'Data_with_Churn_Probability.csv'
+data_path = 'data/Data_with_Churn_Probability.csv'
 data = pd.read_csv(data_path)
 
 # Load the model
