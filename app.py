@@ -123,7 +123,7 @@ def create_map(data, show_prob=False, location=None):
                 <p><b>ID:</b> {row['Customer ID']}</p>
                 <p><b>Current Status:</b> {row['Customer Status']}</p>
                 <p><b>Status Predicted:</b> {row['Predicted Label']}</p>
-                <p><b>Churn Probability:</b> {row['Prediction Probability']}</p>
+                <p><b>Probability:</b> {row['Prediction Probability']}</p>
             </div>
             """
             color = 'red' if row['Predicted Label'] == 'Churned' else 'green'
